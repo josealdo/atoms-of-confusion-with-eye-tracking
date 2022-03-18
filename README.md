@@ -1,5 +1,5 @@
 # Seeing confusion through a new lens: On the impact of atoms on novices' code comprehension
-Pablo Roberto, José Aldo, Rohit Gheyi
+José Aldo, Pablo Roberto, Rohit Gheyi
 
 ## Overview
 Code comprehension is crucial for software maintenance and evolution processes but it can be can be hindered by small code patterns known as atoms of confusion. These atoms of confusion are tiny code snippets that can confuse developers causing them to misjudge the behavior of the code. 
