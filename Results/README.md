@@ -17,7 +17,7 @@ Table 2: Results for accuracy of the answers (RQ2). O = Obfuscated code; C = Cla
 ##### Finding 2: In our study, the subjects exhibit a reduction in the number of answers submitted with the clarified version of the code containing the Operator Precedence.
 --------------
 
-Table 3: Results for the fixation duration in AOI and in Code (RQ2). O = Obfuscated code; C = Clarified code; PD = percentage difference; PV = p-value; ES = effect size. Columns O and C are based on the median as a measure of central tendency.
+Table 3: Results for the fixation duration in AOI and in Code (RQ3). O = Obfuscated code; C = Clarified code; PD = percentage difference; PV = p-value; ES = effect size. Columns O and C are based on the median as a measure of central tendency.
 
 <p align="center">
   <img src="https://github.com/josealdo/atoms-of-confusion-with-eye-tracking/blob/main/Results/Tables/RQ3.png" width="800" title="hover text">
