@@ -8,12 +8,8 @@ Keywords: atoms of confusion · eye tracking · code comprehension
 
 ## Experiment Material
 
-All tasks, forms, reponse time, accuracy, and fixation data of all tasks are available <a href="">here</a>.
+All tasks, forms, reponse time, accuracy, and fixation data of all tasks are available <a href="https://github.com/josealdo/atoms-of-confusion-with-eye-tracking/tree/main/Experiment Material">here</a>.
 
 ## Results
 
-All tables summarizing the results are available <a href="">here</a>.
-
-## Graphical Visualizations 
-
-All graphical visualizations regarding fixations are available <a href="">here</a>.
+All tables summarizing the results are available <a href="https://github.com/josealdo/atoms-of-confusion-with-eye-tracking/tree/main/Results">here</a>.
