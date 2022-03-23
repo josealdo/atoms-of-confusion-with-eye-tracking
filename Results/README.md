@@ -3,7 +3,7 @@
 Table 1: Results for time spent in AOI and in Code (RQ1). O = Obfuscated code; C = Clarified code; PD = percentage difference; PV = p-value; ES = effect size. Columns O and C are based on the median as a measure of central tendency.
 
 <p align="center">
-  <img src="https://github.com/josealdo/atoms-of-confusion-with-eye-tracking/blob/master/Results/Tables/RQ1.png" width="700" title="hover text">
+  <img src="https://github.com/josealdo/atoms-of-confusion-with-eye-tracking/blob/main/Results/Tables/RQ1.png" width="700" title="hover text">
 </p>
 
 ##### Finding 1: In our study, in the clarified version of code containing the Operator Precedence, the subjects exhibit a reduction in the time spent in the AOI and in the code as a whole. However, with the clarified version of code containing Multiple Variable Assignment, there is an increase in the time in the AOI. 
