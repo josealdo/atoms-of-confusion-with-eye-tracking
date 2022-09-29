@@ -8,8 +8,8 @@ Keywords: extract method · eye tracking · code comprehension
 
 ## Experiment Material
 
-All programs, forms, reponse time, accuracy, and fixation data of all tasks are available <a href="https://github.com/josealdo/atoms-of-confusion-with-eye-tracking/tree/main/Experiment Material">here</a>.
+All programs, forms, reponse time, accuracy, and fixation data of all tasks are available <a href="https://github.com/josealdo/">here</a>.
 
 ## Results
 
-All tables summarizing the results are available <a href="https://github.com/josealdo/atoms-of-confusion-with-eye-tracking/tree/main/Results">here</a>.
+All tables summarizing the results are available <a href="https://github.com/josealdo/">here</a>.
