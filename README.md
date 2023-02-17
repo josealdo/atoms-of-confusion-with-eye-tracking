@@ -12,4 +12,4 @@ All programs, forms, reponse time, accuracy, and fixation data of all tasks are 
 
 ## Results
 
-All tables summarizing the results and additional analysis are avaliable <a href="https://github.com/josealdo/atoms-of-confusion-with-eye-tracking/blob/main/Results/Additional%20Analises/additional_analyses.pdf">here</a> 
+All tables summarizing the results and additional analysis are avaliable <a href="https://github.com/josealdo/atoms-of-confusion-with-eye-tracking/blob/main/Results/Additional%20Analises/additional_analyses.pdf">here</a>.
